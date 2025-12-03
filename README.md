@@ -1,4 +1,8 @@
-# Bug Reports Portfolio
+<div align="center"
+  
+  # Bug Reports Portfolio
+
+</div>
 
 This repository is a collection of professionally structured bug reports created during testing of multiple demo applications. The goal of this project is to showcase real-world defect investigation, clear documentation, and strong QA/SDET thinking.
 
