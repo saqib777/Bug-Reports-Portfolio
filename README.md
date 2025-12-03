@@ -168,11 +168,3 @@ For recruiters: feel free to explore other testing, automation, API, and SDET pr
 
 ---
 
-If you want, I can now:
-
-* Add the ParaBank bug report folder
-* Add placeholder screenshot folders for upcoming modules
-* Create a severity/priority matrix
-* Add a CSV/Excel export template
-
-Just tell me *next*.
