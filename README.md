@@ -1,6 +1,6 @@
-<div align="center"
+<div align="center">
   
-  # Bug Reports Portfolio
+# Bug Reports Portfolio
 
 </div>
 
