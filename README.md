@@ -6,7 +6,7 @@ It is designed to serve as a **public portfolio** that recruiters, hiring manage
 
 ---
 
-## 📌 **What This Repository Contains**
+##  **What This Repository Contains**
 
 This repo will gradually include bug reports for several applications. Each section will have:
 
@@ -19,7 +19,7 @@ This repo will gradually include bug reports for several applications. Each sect
 
 ---
 
-## 📁 **Current Structure**
+##  **Current Structure**
 
 ```
 Bug-Reports-Portfolio/
@@ -34,11 +34,11 @@ Bug-Reports-Portfolio/
 
 ---
 
-## 🧩 **Completed Modules**
+##  **Completed Modules**
 
 ### **1. PrestaShop (Front Office)**
 
-Status: ✔ Completed (20 bug reports)
+Status:  Completed (20 bug reports)
 
 Included:
 
@@ -51,7 +51,7 @@ These reflect the types of issues found on real e‑commerce sites.
 
 ---
 
-## 📌 **Upcoming Modules (To Be Added)**
+## **Upcoming Modules (To Be Added)**
 
 These modules will be added gradually, each containing 10–20 detailed bug reports.
 
@@ -112,7 +112,7 @@ Each application will get its own folder, screenshots, and structured bug report
 
 ---
 
-## 🎯 **Purpose of This Repository**
+##  **Purpose of This Repository**
 
 This portfolio aims to:
 
@@ -124,7 +124,7 @@ This portfolio aims to:
 
 ---
 
-## 🛠️ **Tools & Techniques Used**
+##  **Tools & Techniques Used**
 
 * Exploratory testing
 * Functional testing
@@ -136,7 +136,7 @@ This portfolio aims to:
 
 ---
 
-## 📝 **Bug Report Format Used**
+##  **Bug Report Format Used**
 
 Every bug report includes:
 
@@ -151,7 +151,7 @@ Every bug report includes:
 
 ---
 
-## ⚡ **Future Enhancements**
+##  **Future Enhancements**
 
 * Add automated scripts to capture screenshots
 * Provide downloadable Excel-format bug suites
@@ -160,7 +160,7 @@ Every bug report includes:
 
 ---
 
-## 👤 **About the Author**
+## **About the Author**
 
 Created by **Mohammed Saqib** as part of a dedicated journey into QA and Software Test Engineering. This repository reflects real practice, consistency, and a strong understanding of quality assurance principles.
 
