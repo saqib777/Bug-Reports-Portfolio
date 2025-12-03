@@ -321,13 +321,3 @@ One or more thumbnails appear broken or stretched.
 **Actual:** Redirects to homepage.
 
 ---
-
-If you want, I can also add:
-
-* A polished README for this portfolio repo
-* A severity priority matrix
-* Screenshots section placeholders
-* A CSV/Excel export version
-* Additional bug reports for ParaBank, PHPTravels, PrestaShop Admin, etc.
-
-Just tell me **“next”** or what you'd like to add.
